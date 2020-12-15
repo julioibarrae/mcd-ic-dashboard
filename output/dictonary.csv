@@ -1,0 +1,12 @@
+,Simbolo,Descripción
+0,DATE,Fecha
+1,IXIC,Nasdaq Composite
+2,RUA,Russell 3000 Index
+3,VIX,Expectation of volatily
+4,DJI,Dow Jone Industrial Average
+5,GSPC,S&P 500
+6,RUT,Russell 2000 Index
+7,BTCUSDT,Bitcoin
+8,LTCUSDT,Litecoin
+9,XRPUSDT,Ripple
+10,ETHUSDT,Ethereum
